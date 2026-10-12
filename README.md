@@ -1,6 +1,6 @@
-# Programming Assignment
+# Programming Assignment 4
 
-This project implements a client-server system with control and feedback capabilities. The system consists of a server that streams data according to control requests and a client that receives streamed data, with the ability to send quality feedback and control the data stream.
+This project implements a client-server system with control and feedback capabilities. The system consists of a server that streams data according to control requests and a client that receives streamed data, with the ability to send quality feedback and control the data stream. No sunlab connections needed for this assignment. We will use the internet interface in your own computer. 
 
 ## Project Structure
 
@@ -77,8 +77,6 @@ The client will:
 
 ## Grading Rubric
 
-- **80%** for a functional `client.py`
+- **80%** for functional `client.py` and `server.py`
 - **20%** for documentation: explain every command and functions' functionalities with comments
-- **+50% Bonus** for a functional `server.py` **before the P1 deadline**
-    - (Server-side functionality will be expanded in Part 2. Completing it early will help with P2.)
 
