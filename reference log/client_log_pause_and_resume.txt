@@ -1,0 +1,22 @@
+=== Log Started at 2025-03-31 20:55:11 ===
+
+[CTRL Server] OK, conducting SETUP for session: 123456
+
+[CTRL Server] OK, conducting PLAY for session: 123456
+
+[DATA Server] Hello, client! Data segment: 0/10
+[DATA Server] Hello, client! Data segment: 1/10
+[DATA Server] Hello, client! Data segment: 2/10
+[DATA Server] Hello, client! Data segment: 3/10
+[CTRL Server] OK, conducting PAUSE for session: 123456
+
+[CTRL Server] OK, conducting PLAY for session: 123456
+
+[DATA Server] Hello, client! Data segment: 4/10
+[DATA Server] Hello, client! Data segment: 5/10
+[DATA Server] Hello, client! Data segment: 6/10
+[DATA Server] Hello, client! Data segment: 7/10
+[DATA Server] Hello, client! Data segment: 8/10
+[DATA Server] Hello, client! Data segment: 9/10
+[DATA Server] Hello, client! Data segment: 10/10
+[DATA Server] Sent all segments

@@ -1,0 +1,56 @@
+=== Log Started at 2025-03-31 21:02:35 ===
+
+[CTRL Server] Listening on port 8000
+[CTRL Server] Connecting from ('127.0.0.1', 50176)
+[CTRL Server] Received: SETUP DataPort 5390 ctrl://127.0.0.1:8000
+[CTRL Server] Received: PLAY ctrl://127.0.0.1:8000
+[QUAL Server] Adjusted quality scale to: 0.37
+[QUAL Server] Adjusted quality scale to: 0.40
+[QUAL Server] Adjusted quality scale to: 0.31
+[QUAL Server] Adjusted quality scale to: 0.49
+[QUAL Server] Adjusted quality scale to: 0.29
+[QUAL Server] Adjusted quality scale to: 0.02
+[QUAL Server] Adjusted quality scale to: 0.87
+[QUAL Server] Adjusted quality scale to: 0.55
+[QUAL Server] Adjusted quality scale to: 0.12
+[QUAL Server] Adjusted quality scale to: 0.63
+[QUAL Server] Adjusted quality scale to: 0.56
+[QUAL Server] Adjusted quality scale to: 0.60
+[CTRL Server] Client disconnected (empty data)
+[CTRL Server] Client disconnected
+[CTRL Server] Back to listening for new connections
+[CTRL Server] Listening on port 8000
+[CTRL Server] Connecting from ('127.0.0.1', 50177)
+[CTRL Server] Received: SETUP DataPort 5390 ctrl://127.0.0.1:8000
+[CTRL Server] Received: PLAY ctrl://127.0.0.1:8000
+[QUAL Server] Adjusted quality scale to: 0.27
+[QUAL Server] Adjusted quality scale to: 0.80
+[QUAL Server] Adjusted quality scale to: 0.25
+[QUAL Server] Adjusted quality scale to: 0.68
+[CTRL Server] Received: TEARDOWN ctrl://127.0.0.1:8000
+[CTRL Server] Client requested teardown
+[CTRL Server] Client disconnected
+[CTRL Server] Back to listening for new connections
+[CTRL Server] Listening on port 8000
+[CTRL Server] Connecting from ('127.0.0.1', 50178)
+[CTRL Server] Received: SETUP DataPort 5390 ctrl://127.0.0.1:8000
+[CTRL Server] Received: PLAY ctrl://127.0.0.1:8000
+[QUAL Server] Adjusted quality scale to: 0.79
+[QUAL Server] Adjusted quality scale to: 0.82
+[QUAL Server] Adjusted quality scale to: 0.12
+[CTRL Server] Received: PAUSE ctrl://127.0.0.1:8000
+[CTRL Server] Received: PLAY ctrl://127.0.0.1:8000
+[QUAL Server] Adjusted quality scale to: 0.32
+[QUAL Server] Adjusted quality scale to: 0.55
+[QUAL Server] Adjusted quality scale to: 0.19
+[QUAL Server] Adjusted quality scale to: 0.56
+[QUAL Server] Adjusted quality scale to: 0.06
+[QUAL Server] Adjusted quality scale to: 0.33
+[QUAL Server] Adjusted quality scale to: 0.40
+[QUAL Server] Adjusted quality scale to: 0.24
+[QUAL Server] Adjusted quality scale to: 0.07
+[CTRL Server] Client disconnected (empty data)
+[CTRL Server] Client disconnected
+[CTRL Server] Back to listening for new connections
+[CTRL Server] Listening on port 8000
+[Server] Starting socket cleanup...
